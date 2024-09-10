@@ -1,0 +1,23 @@
+body {
+    background: lightblue;
+}
+
+header {
+     border-bottom: solid 4px black;
+    padding: 20px;
+    font-size: 32px;
+}
+
+.call {
+     background: rgb(89, 93, 224);
+     display: flex;
+     justify-content: center;
+     padding-top: 28px;
+     padding-left: 58px;
+     padding-bottom: 80px;
+     border-bottom: solid 4px rgb(0, 0, 0);
+}
+
+.callText {
+    margin-right: 10%;
+}
